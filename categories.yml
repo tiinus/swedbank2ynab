@@ -1,0 +1,32 @@
+# Definition of categories and their subcategories.
+
+"Boende:El":
+  - "E ON"
+
+"Boende:TV, bredband, telefoni":
+  - "Mobilladdning"
+  - "Telia"
+  - "radiotjänst"
+
+"Bil och transport:Bränsle":
+  - "JET"
+  - "PREEM"
+  - "OKQ8"
+
+"Mat och hushåll:Livsmedel":
+  - "CITY GROSS"
+  - "ICA"
+  - "NETTO"
+  - "WILLYS"
+
+"Mat och hushåll:Restaurang och café":
+  - "BURGER KING"
+  - "MC DONALDS"
+  - "PIZZER"
+  - "CAFE"
+  - "café"
+
+"Nöjen och shopping:Kontantuttag":
+  - "Automatuttag"
+  - "ATM"
+
