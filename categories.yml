@@ -3,15 +3,21 @@
 "Boende:El":
   - "E ON"
 
+"Boende:VA och avfall":
+  - "ALVESTA RENHÅLLN"
+
 "Boende:TV, bredband, telefoni":
   - "Mobilladdning"
   - "Telia"
   - "radiotjänst"
+  - "BAHNHOF"
+  - "Wexnet"
 
 "Bil och transport:Bränsle":
   - "JET"
   - "PREEM"
   - "OKQ8"
+  - "STATOIL"
 
 "Mat och hushåll:Livsmedel":
   - "CITY GROSS"
@@ -19,14 +25,41 @@
   - "NETTO"
   - "WILLYS"
 
+"Mat och hushåll:Hälsa och hygien":
+  - "APOTEK"
+
 "Mat och hushåll:Restaurang och café":
   - "BURGER KING"
   - "MC DONALDS"
+  - "MCDONALDS"
   - "PIZZER"
+  - "PIZZA"
   - "CAFE"
   - "café"
+  - "TASTY"
+  - "SPICEN RICE"
+  - "ZACKS"
+  - "MAX I VEXJO"
+  - "STARS AND STRIPE"
 
 "Nöjen och shopping:Kontantuttag":
   - "Automatuttag"
   - "ATM"
+
+"Nöjen och shopping:Heminredning":
+  - "Jysk"
+  - "IKEA"
+  - "BILTEMA"
+
+"Nöjen och shopping:Hobby och sport":
+  - "GAME"
+  - "TOYS"
+  - "MEDLEY"
+
+"Nöjen och shopping:Hemelektronik":
+  - "KJELL & CO"
+
+"Nöjen och shopping:Kläder och skor":
+  - "LAGER 157"
+  - "H M"
 

@@ -2,6 +2,7 @@ require 'rubygems'
 require 'mechanize'
 require './model'
 
+# Scraper to get transactions for an account in swedbank. Login is done using SSN and PIN.
 class Swedbank 
 
   def initialize(ssn, pin, account)
@@ -19,11 +20,11 @@ class Swedbank
       if !data.empty? && data.length > 3
         amount = data[4].search('./span').first.content.strip
         amount = amount.gsub(/\s+/,"")
-        amount_i = amount.to_i
+        amount_f = amount.tr(',','.').to_f
         date_s = data[0].search('./span').first.content.strip
         date_d = Date.strptime(date_s, '%y-%m-%d')
         desc = data[2].content.strip
-        result << Transaction.new(date_d, desc, amount_i)
+        result << Transaction.new(date_d, desc, amount_f)
       end
     }
 
