@@ -26,11 +26,11 @@ class Transaction
 
   @@categories = Categories.new()
 
-	def initialize(date, payee, amount)
-		@date = date
-		@payee = payee
-		@amount = amount
+  def initialize(date, payee, amount)
+    @date = date
+    @payee = payee
+    @amount = amount
     @category = @@categories.category_for(payee)
-	end
+  end
 
 end
