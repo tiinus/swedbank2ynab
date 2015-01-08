@@ -11,8 +11,9 @@ This project scrapes your Swedbank account and outputs the transactions in CSV f
 
 Configure categories.yml to match your categories in YNAB or leave the file empty if you do not want the categories.
 
-Example usage: 
-	$ ruby swedbank2ynab.rb <your-ssn> <your-pin> <your-account-name> > file.csv
+Example usage:
+
+	$ ruby swedbank2ynab.rb <your-ssn> <your-pin> <your-account-name> > swedbank2ynab-`date "+%Y%m%d-%H%M"`.csv
 
 your-ssn is the same you use when logging in to swedbank
 your-pin is your "peronlig kod"
