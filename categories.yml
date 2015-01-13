@@ -12,6 +12,7 @@
   - "radiotjänst"
   - "BAHNHOF"
   - "Wexnet"
+  - "SURFTOWN"
 
 "Bil och transport:Bränsle":
   - "JET"
@@ -24,6 +25,7 @@
   - "ICA"
   - "NETTO"
   - "WILLYS"
+  - "COOP"
 
 "Mat och hushåll:Hälsa och hygien":
   - "APOTEK"
@@ -63,3 +65,16 @@
   - "LAGER 157"
   - "H M"
 
+"Övrigt:Generell":
+  - "PRIS INTERNETBET"
+  - "PRIS BANKKORT"
+  - "SKATTEVERKET"
+
+"Övrigt:Barn":
+  - "alvetsa kommun b"
+
+"Övrigt:Försäkringar":
+  - "LÄNSFÖRSÄKRING"
+
+"Övrigt:Fackavgift och a-kassa":
+  - "SV INGENJ"
