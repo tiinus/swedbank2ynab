@@ -20,6 +20,9 @@
   - "OKQ8"
   - "STATOIL"
 
+"Bil och transport:Skatt och försäkring":
+  - "vägverket skatt"
+
 "Mat och hushåll:Livsmedel":
   - "CITY GROSS"
   - "ICA"
@@ -33,6 +36,7 @@
 "Mat och hushåll:Restaurang och café":
   - "BURGER KING"
   - "MC DONALDS"
+  - "MCDONALD"
   - "MCDONALDS"
   - "PIZZER"
   - "PIZZA"
@@ -43,6 +47,10 @@
   - "ZACKS"
   - "MAX I VEXJO"
   - "STARS AND STRIPE"
+  - "TANDOORI CITY"
+  - "KOH THAI"
+  - "RESTAURANG"
+  - "CHILI WOK"
 
 "Nöjen och shopping:Kontantuttag":
   - "Automatuttag"
@@ -52,6 +60,8 @@
   - "Jysk"
   - "IKEA"
   - "BILTEMA"
+  - "MIO"
+  - "KLARNA AB"
 
 "Nöjen och shopping:Hobby och sport":
   - "GAME"
