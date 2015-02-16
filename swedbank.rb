@@ -34,7 +34,6 @@ class Swedbank
   private
 
   def do_login(ssn, pin)
-    p ssn
     authidpage = @agent.get("https://internetbank.swedbank.se/bviPrivat/privat?ns=1")
     authform = authidpage.form('form1')
     authid2page = @agent.submit(authform, authform.buttons.first)
